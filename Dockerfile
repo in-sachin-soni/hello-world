@@ -1,6 +1,6 @@
 FROM openjdk:17
 
-EXPOSE 8282
+EXPOSE 8181
 
 ADD target/hello-world.jar hello-world.jar
 
